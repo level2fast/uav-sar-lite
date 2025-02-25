@@ -1,0 +1,14 @@
+clear Nrg_cells
+clear length_replica 
+clear tot_Nrg_cells  
+clear tot_Nrg_lines   
+clear first_replica  
+clear PRF            
+clear Fr            
+clear f0             
+clear c             
+clear R0             
+clear Nrepl           
+clear Kr             
+clear Tr              
+clear Vr              

@@ -1,32 +1,13 @@
-# Prerequisites
-*.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+sar-demos/radarsat-1/utility/data/CD_run_params.mat
+sar-demos/radarsat-1/utility/data/CDdata1.mat
+sar-demos/radarsat-1/utility/data/CDdata2.mat
+sar-demos/radarsat-1/utility/data/CD_run_params.mat
+sar-demos/radarsat-1/utility/data/CDdata1.mat
+sar-demos/radarsat-1/utility/data/CDdata2.mat
+sar-demos/radarsat-1/utility/data/CD_run_params.mat
+sar-demos/radarsat-1/utility/data/CDdata1.mat
+sar-demos/radarsat-1/utility/data/CDdata2.mat
+sar-demos/radarsat-1/utility/data/CD_run_params.mat
+sar-demos/radarsat-1/utility/data/CDdata1.mat
+sar-demos/radarsat-1/utility/data/CDdata2.mat
